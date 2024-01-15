@@ -1,7 +1,5 @@
 #### News-Hub
 
-Project is Deployed and Hosted on Netlify 
-Website link : https://64c08f06288a3515e91d89a6--classy-khapse-5ce3a1.netlify.app/
 
 ###### Tech Stack :
 Bootstrap , React Js
@@ -12,4 +10,4 @@ a robust Bing News API, site aggregates news articles, headlines, and updates fr
 
 
 ###### Author/Creator:
-Mayank Ashtekar
+Pratik Dibbe
